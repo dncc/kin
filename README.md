@@ -1,1 +1,1 @@
-# keep it near (stupid)
+# keep it near
